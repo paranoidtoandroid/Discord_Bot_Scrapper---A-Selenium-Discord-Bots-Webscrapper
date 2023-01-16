@@ -7,8 +7,8 @@ You can see an example of the results of a scrape in the discord_bots.csv file. 
 
 Running the Webscraper
 Pre-Requisites
-Python Version: 3.9
-Package Requirements: Selenium
+*Python Version: 3.9
+*Package Requirements: Selenium
 
 The script uses one main file : main.py runs the actual scraper. Note that in the main.py file there's a line of code to handle exceptions when the script is blocked or stopped, you can take this out if you want to.
 
